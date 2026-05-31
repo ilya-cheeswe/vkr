@@ -1,0 +1,91 @@
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {section}{РЕЗЮМЕ СТАРТАП-ПРОЕКТА}{12}{section*.5}%
+\contentsline {section}{ВВЕДЕНИЕ}{15}{section*.6}%
+\contentsline {section}{\numberline {1}Анализ предметной области}{18}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Характеристика деятельности редакционно-издательского отдела вуза}{18}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Проблемы традиционного подхода к подготовке к изданию методическмх материалов}{19}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Обоснование необходимости автоматизации}{20}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Анализ существующих систем автоматизации документооборота и проверки документов}{21}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Microsoft Word и встроенные средства рецензирования}{21}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}Google Docs}{21}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}Системы электронного документооборота}{22}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}Вывод по анализу аналогов}{22}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}Постановка задач на разработку}{23}{subsection.1.5}%
+\contentsline {section}{\numberline {2}Техническое задание}{24}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{24}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{24}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования к функциональности}{24}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Требования к интерфейсу}{25}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Требования к обработке ошибок}{29}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Требования к удобству использования}{30}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Моделирование вариантов использования}{30}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Вариант использования «Вход в систему»}{33}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Вариант использования «Выход из системы»}{34}{subsubsection.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.7.3}Вариант использования «Загрузка документа на проверку»}{34}{subsubsection.2.7.3}%
+\contentsline {subsubsection}{\numberline {2.7.4}Вариант использования «Автоматическая проверка документа»}{35}{subsubsection.2.7.4}%
+\contentsline {subsubsection}{\numberline {2.7.5}Вариант использования «Получение отчёта об ошибках»}{35}{subsubsection.2.7.5}%
+\contentsline {subsubsection}{\numberline {2.7.6}Вариант использования «Скачивание документа с выделенными ошибками»}{36}{subsubsection.2.7.6}%
+\contentsline {subsubsection}{\numberline {2.7.7}Вариант использования «Автоматическое сохранение корректного документа»}{36}{subsubsection.2.7.7}%
+\contentsline {subsubsection}{\numberline {2.7.8}Вариант использования «Просмотр архива документов»}{37}{subsubsection.2.7.8}%
+\contentsline {subsubsection}{\numberline {2.7.9}Вариант использования «Формирование титульного листа»}{37}{subsubsection.2.7.9}%
+\contentsline {subsubsection}{\numberline {2.7.10}Вариант использования «Просмотр статистики»}{38}{subsubsection.2.7.10}%
+\contentsline {subsubsection}{\numberline {2.7.11}Вариант использования «Управление пользователями»}{38}{subsubsection.2.7.11}%
+\contentsline {subsubsection}{\numberline {2.7.12}Вариант использования «Настройка параметров системы»}{38}{subsubsection.2.7.12}%
+\contentsline {subsection}{\numberline {2.8}Требования к надёжности}{39}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Требования к информационной безопасности}{40}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}Требования к программной и технической совместимости}{40}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Требования к оформлению документации}{41}{subsection.2.11}%
+\contentsline {section}{\numberline {3}Технический проект}{42}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Архитектура программной системы}{42}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора средств разработки}{44}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Язык программирования Python}{44}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Фреймворк FastAPI}{44}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}СУБД PostgreSQL}{45}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Модуль обработки документов DOCX}{45}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Файловое хранилище}{46}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}Прочие библиотеки}{46}{subsubsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.3}Клиентская часть}{46}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Разработка клиентской части системы}{49}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Архитектура клиентской части}{50}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Реализация пользовательского интерфейса}{51}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Организация взаимодействия с сервером}{53}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Реализация загрузки и проверки документов}{56}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}Генерация титульных листов}{57}{subsubsection.3.4.5}%
+\contentsline {subsubsection}{\numberline {3.4.6}Отправка документов в РИО}{57}{subsubsection.3.4.6}%
+\contentsline {subsubsection}{\numberline {3.4.7}Аутентификация и управление профилем}{58}{subsubsection.3.4.7}%
+\contentsline {subsubsection}{\numberline {3.4.8}Административная панель и статистика}{59}{subsubsection.3.4.8}%
+\contentsline {subsubsection}{\numberline {3.4.9}Технические особенности реализации}{60}{subsubsection.3.4.9}%
+\contentsline {subsubsection}{\numberline {3.4.10}Обеспечение безопасности}{60}{subsubsection.3.4.10}%
+\contentsline {section}{\numberline {4}Рабочий проект}{62}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Модуль index.html}{62}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Модуль styles.css}{62}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Модуль app.js}{62}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Функции авторизации и управления состоянием}{62}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Функции проверки документов}{63}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Функции генерации титульных листов}{64}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}Функции отправки документов в РИО}{64}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Функции модулей статистики и администрирования}{65}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}Вспомогательные функции}{66}{subsubsection.4.3.6}%
+\contentsline {subsection}{\numberline {4.4}Модуль images/}{66}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Системное тестирование клиентской части}{66}{subsection.4.5}%
+\contentsline {subsubsection}{\numberline {4.5.1}Сводная таблица тест-кейсов}{66}{subsubsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.2}TC-01. Вход в систему с корректными данными}{67}{subsubsection.4.5.2}%
+\contentsline {subsubsection}{\numberline {4.5.3}TC-02. Регистрация нового пользователя}{67}{subsubsection.4.5.3}%
+\contentsline {subsubsection}{\numberline {4.5.4}TC-03. Загрузка и проверка корректного DOCX-документа}{68}{subsubsection.4.5.4}%
+\contentsline {subsubsection}{\numberline {4.5.5}TC-04. Загрузка и проверка документа с ошибками оформления}{68}{subsubsection.4.5.5}%
+\contentsline {subsubsection}{\numberline {4.5.6}TC-05. Генерация титульного листа методических указаний}{69}{subsubsection.4.5.6}%
+\contentsline {subsubsection}{\numberline {4.5.7}TC-06. Генерация титульного листа учебного пособия}{69}{subsubsection.4.5.7}%
+\contentsline {subsubsection}{\numberline {4.5.8}TC-07. Генерация титульного листа монографии}{69}{subsubsection.4.5.8}%
+\contentsline {subsubsection}{\numberline {4.5.9}TC-08. Отправка документов в РИО (полный цикл)}{70}{subsubsection.4.5.9}%
+\contentsline {subsubsection}{\numberline {4.5.10}TC-09. Получение статистики по факультету}{70}{subsubsection.4.5.10}%
+\contentsline {subsubsection}{\numberline {4.5.11}TC-10. Создание факультета администратором}{71}{subsubsection.4.5.11}%
+\contentsline {subsubsection}{\numberline {4.5.12}Результаты тестирования}{71}{subsubsection.4.5.12}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{72}{section*.19}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{73}{Item.204}%
+\contentsline {section}{ПРИЛОЖЕНИЕ А\ Представление графического материала}{79}{section*.21}%
+\contentsline {section}{ПРИЛОЖЕНИЕ Б\ Фрагменты исходного кода программы}{89}{section*.31}%
+\contentsline {section}{На отдельных листах (CD-RW в прикрепленном конверте)}{100}{lstnumber.-1.490}%
